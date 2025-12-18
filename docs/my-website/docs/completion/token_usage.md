@@ -180,7 +180,7 @@ litellm.register_model({
 import litellm
 
 litellm.register_model(model_cost=
-"https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json")
+"https://raw.githubusercontent.com/opleonnn/litellm/main/model_prices_and_context_window.json")
 ```
 
 **Don't pull hosted model_cost_map**  

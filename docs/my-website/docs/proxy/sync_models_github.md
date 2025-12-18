@@ -65,7 +65,7 @@ print(result['message'])
 
 **Custom model cost map URL:**
 ```bash
-export LITELLM_MODEL_COST_MAP_URL="https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json"
+export LITELLM_MODEL_COST_MAP_URL="https://raw.githubusercontent.com/opleonnn/litellm/main/model_prices_and_context_window.json"
 ```
 
 **Use local model cost map:**

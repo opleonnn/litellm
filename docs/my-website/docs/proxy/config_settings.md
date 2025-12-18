@@ -681,7 +681,7 @@ router_settings:
 | LITELLM_LICENSE | License key for LiteLLM usage
 | LITELLM_LOCAL_MODEL_COST_MAP | Local configuration for model cost mapping in LiteLLM
 | LITELLM_LOG | Enable detailed logging for LiteLLM
-| LITELLM_MODEL_COST_MAP_URL | URL for fetching model cost map data. Default is https://raw.githubusercontent.com/BerriAI/litellm/main/model_prices_and_context_window.json
+| LITELLM_MODEL_COST_MAP_URL | URL for fetching model cost map data. Default is https://raw.githubusercontent.com/opleonnn/litellm/main/model_prices_and_context_window.json
 | LITELLM_LOG_FILE | File path to write LiteLLM logs to. When set, logs will be written to both console and the specified file
 | LITELLM_LOGGER_NAME | Name for OTEL logger 
 | LITELLM_METER_NAME | Name for OTEL Meter 
